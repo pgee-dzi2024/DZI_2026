@@ -1,6 +1,6 @@
 import random
 
-themes = [5, 14, 10, 6, 2, 1, 16, 17, 7, 12, 9, 11, 4]
+themes = [2, 3, 5, 7, 10, 11, 12, 13, 14, 16]
 
 random.shuffle(themes)
 print(themes)
